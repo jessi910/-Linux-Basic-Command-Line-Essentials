@@ -1,4 +1,2 @@
 #Building-my-1st-custom-gaming-PC. As a beginner in PC building, I took on the exciting challenge of creating my own custom gaming PC. This project allowed me to explore hardware assembly, component compatibility, and system optimization. It also strengthened my understanding of computer systems and fueled my passion for technology.
-
-
-#Cybersecurity Incident Report
+#Cybersecurity Incident Report. In my first cybersecurity project, I analyzed a DNS issue that made a client website unreachable. Using tcpdump, I identified that UDP requests to port 53 were failing with "port unreachable" errors. This revealed the DNS service was down or misconfigured, and I reported the findings to the security team for resolution.
