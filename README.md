@@ -1,19 +1,24 @@
 
- # WHOIS Domain Lookup Lab – bbc.co.uk
+ # 🐧 Introduction to Linux & Command Line Essentials
 # 🧍🏽 Performed By:
 **Jessica Stovall**  
 Aspiring Cybersecurity Analyst | Army Veteran 
 
 ---
 
-## 📌 Lab Objective
-Use the whois command on a Linux-based attack box to gather domain registration and network information.
+## 📌 Objective
+In this beginner Linux lab, I gained hands-on experience with the Linux operating system, exploring the terminal, basic commands, and essential shell tools used daily by IT professionals.
+
+
 ---
 
-## 🧰 Tools Used
-- TryHackme
-- Linux Terminal (Kali-based VM via TryHackMe/AttackBox
-- Internet connection
+## 📦 Tools Used:
+
+🐧 Linux (Ubuntu/Debian-based)
+
+🔐 Terminal (Bash shell)
+
+🌐 TryHackMe/VirtualBox (for lab simulation)
 
 - ## 🧪 Steps Performed
 1. Opened the Command Prompt.
@@ -21,34 +26,30 @@ Use the whois command on a Linux-based attack box to gather domain registration 
 2. Typed and executed the following command: whois bbc.co.uk
  
 
-🔍 Findings
+🧠 Skills & Concepts Learned:
 
-Domain Name: bbc.co.uk
+📖 Why Linux is Everywhere – Learned about the widespread use of Linux in servers, cybersecurity, cloud platforms, and embedded systems.
 
-Registrar: British Broadcasting Corporation (Tag = BBC)
+💻 First Linux Machine Interaction – Connected to and explored a live Linux environment via a virtual machine (TryHackMe/VirtualBox).
 
-Registration Date: Before August 1996
+🧾 Fundamental Commands – Practiced ls, cd, pwd, 
 
-Expiration Date: December 13, 2025
+📂 Filesystem Navigation – Explored directory structure and how to move between paths efficiently.
 
-Last Updated: December 10, 2020
+🔍 File Searching Tools – Used find, grep, and wildcards to locate files, search inside files, and filter output.
 
-Name Servers:
+⚙️ Shell Operators – Learned how to enhance commands using:
 
-dns0.bbc.co.uk – 148.163.199.1 (IPv4), 2607:ff40:e04e::1 (IPv6)
+> and >> (redirect output)
 
-dns1.bbc.co.uk – 198.51.44.9 (IPv4), 2620:4d:4000:6259:7:9:0:1 (IPv6)
+| (pipe to chain commands)
 
-Additional IPs: 198.51.45.9, 2607:ff40:e04e:4::1, and 2a00:edc0:6259:7:9::2
+&& / || (command chaining based on success or failure)
 
+* and ? (wildcard matching)
 
-## 🧠 Skills Demonstrated:
-
-Domain enumeration and basic OSINT gathering
-
-Interpreting WHOIS output to extract registrar and server metadata
-
-Identifying IPv4 and IPv6 DNS records
+💡 Key Takeaway:
+Understanding and navigating Linux is a foundational skill for cybersecurity, IT support, and systems administration. These command-line fundamentals are the building blocks for more advanced tasks like scripting, automation, and log analysis.
 
 
----
+
