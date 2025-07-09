@@ -1,5 +1,5 @@
 
- # 🐧 Introduction to Linux & Command Line Essentials
+ # 🐧 Basic Commands 
 # 🧍🏽 Performed By:
 **Jessica Stovall**  
 Aspiring Cybersecurity Analyst | Army Veteran 
