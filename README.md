@@ -32,7 +32,7 @@ In this beginner Linux lab, I gained hands-on experience with the Linux operatin
 
 💻 First Linux Machine Interaction – Connected to and explored a live Linux environment via a virtual machine (TryHackMe/VirtualBox).
 
-🧾 Fundamental Commands – Practiced ls, cd, pwd, 
+🧾 Fundamental Commands – Practiced ls, cd, pwd, echo, whoami
 
 📂 Filesystem Navigation – Explored directory structure and how to move between paths efficiently.
 
